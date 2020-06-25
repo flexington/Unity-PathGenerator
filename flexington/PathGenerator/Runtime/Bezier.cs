@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace flexigton.PathGenerator
+namespace flexington.PathGenerator
 {
     public class Bezier
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace flexigton.PathGenerator
+namespace flexington.PathGenerator
 {
     public class PathGeneratorComponent : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace flexigton.PathGenerator
+namespace flexington.PathGenerator
 {
     [Serializable]
     public class Path

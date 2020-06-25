@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace flexigton.PathGenerator
+namespace flexington.PathGenerator
 {
     [CustomEditor(typeof(PathGeneratorComponent))]
     public class PathGeneratorInspector : Editor
