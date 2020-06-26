@@ -42,6 +42,11 @@ namespace flexington.PathGenerator
         public int PointCount { get { return _points.Count; } }
 
         /// <summary>
+        /// Creates a new empty path
+        /// </summary>
+        public Path() { }
+
+        /// <summary>
         /// Creates a new path between anchorA and anchorb
         /// </summary>
         public Path(Vector2 anchorA, Vector2 anchorB)
